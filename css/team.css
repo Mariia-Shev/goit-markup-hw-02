@@ -1,6 +1,10 @@
 .team-section {
   background-color: #f4f4fd;
 }
+.team-section .article-title,
+.team-section p {
+  text-align: center;
+}
 .team-list li {
   background-color: #ffffff;
 }
